@@ -1,0 +1,23 @@
+{
+  "name": "cypress-semana-agilizei",
+  "version": "1.0.0",
+  "description": "It's test automation project exemple build with cypress framework created during \"Semana agilizei 2.0\" bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlpdleal/cypress-semana-agilizei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlpdleal/cypress-semana-agilizei/issues"
+  },
+  "homepage": "https://github.com/mlpdleal/cypress-semana-agilizei#readme",
+  "devDependencies": {
+    "cypress": "5.6.0"
+  }
+}
