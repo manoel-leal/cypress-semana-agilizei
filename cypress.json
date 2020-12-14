@@ -4,5 +4,9 @@
     "watchForFileChanges": true,
     "experimentalSourceRewriting": true,
     "viewportHeight": 960,
-    "viewportWidth": 1536
+    "viewportWidth": 1536,
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporter-config.json"
+    }
 }
